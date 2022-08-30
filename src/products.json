@@ -1,0 +1,64 @@
+
+
+[
+	{
+		"nombre": "Intel I5",
+		"precio": 22000,
+		"imagen":"https://mexx-img-2019.s3.amazonaws.com/tumb_37558_1.jpeg",
+		"stock": 5,
+		"descripcion": "Descripción del producto",
+		"id": 1,
+        "timestamp": 1658620433153,
+		"code": "IntelV1658620433153"
+	},
+	{
+		"nombre": "Intel Core I7 10700F 4.8Ghz",
+		"precio": 45000,
+		"imagen":"https://mexx-img-2019.s3.amazonaws.com/tumb_39187_1.jpeg",
+		"stock": 2,
+		"descripcion": "Descripción del producto",
+		"id": 2,
+        "timestamp": 1658620433153,
+		"code": "IntelVII1658620433153"
+	},
+	{
+		"nombre": "Placa de video GeForce RTX 3060TI 8gb Asus",
+		"precio": 170000,
+		"imagen": "https://mexx-img-2019.s3.amazonaws.com/tumb_placa-video-rtx_41144_2.jpeg?v998",
+		"stock": 2,
+		"descripcion": "Descripción del producto",
+		"id": 3,
+        "timestamp": 1658620433153,
+		"code": "RTX1658620433153"
+	},
+	{
+		"nombre": "Amd Ryzen 5 3600",
+        "precio": 44000,
+		"imagen":"https://mexx-img-2019.s3.amazonaws.com/tumb_36329_2.jpeg",
+		"stock": 10,
+		"descripcion": "Descripción del producto",
+		"id": 4,
+        "timestamp": 1658620433153,
+		"code": "RYZV1658620433153"
+	},
+	{
+		"nombre": "Amd Ryzen 7 5800X3D",
+		"precio": 100000,
+		"imagen": "https://mexx-img-2019.s3.amazonaws.com/tumb_procesador-amd-ryzen-5800x3d_42614_1.jpeg",
+		"stock": 1,
+		"descripcion": "Descripción del producto",
+		"id": 5,
+        "timestamp": 1658620433153,
+		"code": "RYZVII1658620433153"
+	},
+	{
+		"nombre": "Placa de video GeForce GTX 1650 4gb Asus",
+		"precio": 72000,
+		"imagen":"https://mexx-img-2019.s3.amazonaws.com/tumb_Placa-De-Video-GeForce-GTX-1650-4Gb-Asus-Dual-Oc-D6-MINI-CSM_43166_1.jpeg",
+		"stock": 6,
+		"descripcion": "Descripción del producto",
+		"id": 6,
+        "timestamp": 1658620433153,
+		"code": "GTXA1658620433153"
+	}
+]
